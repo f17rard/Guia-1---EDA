@@ -1,0 +1,15 @@
+/home/marcus/Documentos/GitHub/EDA/EjerciciosGuia1/Ejercicio1/Ejercicio1-HistorialDeNavegacion/obj/Debug/net10.0/Ejercicio1-HistorialDeNavegacion.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcus/Documentos/GitHub/EDA/EjerciciosGuia1/Ejercicio1/Ejercicio1-HistorialDeNavegacion/obj/Debug/net10.0/Ejercicio1-HistorialDeNavegacion.AssemblyInfoInputs.cache
+/home/marcus/Documentos/GitHub/EDA/EjerciciosGuia1/Ejercicio1/Ejercicio1-HistorialDeNavegacion/obj/Debug/net10.0/Ejercicio1-HistorialDeNavegacion.AssemblyInfo.cs
+/home/marcus/Documentos/GitHub/EDA/EjerciciosGuia1/Ejercicio1/Ejercicio1-HistorialDeNavegacion/obj/Debug/net10.0/Ejercicio1-HistorialDeNavegacion.csproj.CoreCompileInputs.cache
+/home/marcus/Documentos/GitHub/EDA/EjerciciosGuia1/Ejercicio1/Ejercicio1-HistorialDeNavegacion/obj/Debug/net10.0/Ejercicio1-HistorialDeNavegacion.sourcelink.json
+/home/marcus/Documentos/GitHub/EDA/EjerciciosGuia1/Ejercicio1/Ejercicio1-HistorialDeNavegacion/bin/Debug/net10.0/Ejercicio1-HistorialDeNavegacion
+/home/marcus/Documentos/GitHub/EDA/EjerciciosGuia1/Ejercicio1/Ejercicio1-HistorialDeNavegacion/bin/Debug/net10.0/Ejercicio1-HistorialDeNavegacion.deps.json
+/home/marcus/Documentos/GitHub/EDA/EjerciciosGuia1/Ejercicio1/Ejercicio1-HistorialDeNavegacion/bin/Debug/net10.0/Ejercicio1-HistorialDeNavegacion.runtimeconfig.json
+/home/marcus/Documentos/GitHub/EDA/EjerciciosGuia1/Ejercicio1/Ejercicio1-HistorialDeNavegacion/bin/Debug/net10.0/Ejercicio1-HistorialDeNavegacion.dll
+/home/marcus/Documentos/GitHub/EDA/EjerciciosGuia1/Ejercicio1/Ejercicio1-HistorialDeNavegacion/bin/Debug/net10.0/Ejercicio1-HistorialDeNavegacion.pdb
+/home/marcus/Documentos/GitHub/EDA/EjerciciosGuia1/Ejercicio1/Ejercicio1-HistorialDeNavegacion/obj/Debug/net10.0/Ejercicio1-HistorialDeNavegacion.dll
+/home/marcus/Documentos/GitHub/EDA/EjerciciosGuia1/Ejercicio1/Ejercicio1-HistorialDeNavegacion/obj/Debug/net10.0/refint/Ejercicio1-HistorialDeNavegacion.dll
+/home/marcus/Documentos/GitHub/EDA/EjerciciosGuia1/Ejercicio1/Ejercicio1-HistorialDeNavegacion/obj/Debug/net10.0/Ejercicio1-HistorialDeNavegacion.pdb
+/home/marcus/Documentos/GitHub/EDA/EjerciciosGuia1/Ejercicio1/Ejercicio1-HistorialDeNavegacion/obj/Debug/net10.0/Ejercicio1-HistorialDeNavegacion.genruntimeconfig.cache
+/home/marcus/Documentos/GitHub/EDA/EjerciciosGuia1/Ejercicio1/Ejercicio1-HistorialDeNavegacion/obj/Debug/net10.0/ref/Ejercicio1-HistorialDeNavegacion.dll

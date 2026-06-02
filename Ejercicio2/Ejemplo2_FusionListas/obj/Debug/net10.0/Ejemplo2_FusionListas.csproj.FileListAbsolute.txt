@@ -1,0 +1,15 @@
+/home/marcus/Documentos/GitHub/EDA/EjerciciosGuia1/Ejercicio2/Ejemplo2_FusionListas/obj/Debug/net10.0/Ejemplo2_FusionListas.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcus/Documentos/GitHub/EDA/EjerciciosGuia1/Ejercicio2/Ejemplo2_FusionListas/obj/Debug/net10.0/Ejemplo2_FusionListas.AssemblyInfoInputs.cache
+/home/marcus/Documentos/GitHub/EDA/EjerciciosGuia1/Ejercicio2/Ejemplo2_FusionListas/obj/Debug/net10.0/Ejemplo2_FusionListas.AssemblyInfo.cs
+/home/marcus/Documentos/GitHub/EDA/EjerciciosGuia1/Ejercicio2/Ejemplo2_FusionListas/obj/Debug/net10.0/Ejemplo2_FusionListas.csproj.CoreCompileInputs.cache
+/home/marcus/Documentos/GitHub/EDA/EjerciciosGuia1/Ejercicio2/Ejemplo2_FusionListas/obj/Debug/net10.0/Ejemplo2_FusionListas.sourcelink.json
+/home/marcus/Documentos/GitHub/EDA/EjerciciosGuia1/Ejercicio2/Ejemplo2_FusionListas/bin/Debug/net10.0/Ejemplo2_FusionListas
+/home/marcus/Documentos/GitHub/EDA/EjerciciosGuia1/Ejercicio2/Ejemplo2_FusionListas/bin/Debug/net10.0/Ejemplo2_FusionListas.deps.json
+/home/marcus/Documentos/GitHub/EDA/EjerciciosGuia1/Ejercicio2/Ejemplo2_FusionListas/bin/Debug/net10.0/Ejemplo2_FusionListas.runtimeconfig.json
+/home/marcus/Documentos/GitHub/EDA/EjerciciosGuia1/Ejercicio2/Ejemplo2_FusionListas/bin/Debug/net10.0/Ejemplo2_FusionListas.dll
+/home/marcus/Documentos/GitHub/EDA/EjerciciosGuia1/Ejercicio2/Ejemplo2_FusionListas/bin/Debug/net10.0/Ejemplo2_FusionListas.pdb
+/home/marcus/Documentos/GitHub/EDA/EjerciciosGuia1/Ejercicio2/Ejemplo2_FusionListas/obj/Debug/net10.0/Ejemplo2_FusionListas.dll
+/home/marcus/Documentos/GitHub/EDA/EjerciciosGuia1/Ejercicio2/Ejemplo2_FusionListas/obj/Debug/net10.0/refint/Ejemplo2_FusionListas.dll
+/home/marcus/Documentos/GitHub/EDA/EjerciciosGuia1/Ejercicio2/Ejemplo2_FusionListas/obj/Debug/net10.0/Ejemplo2_FusionListas.pdb
+/home/marcus/Documentos/GitHub/EDA/EjerciciosGuia1/Ejercicio2/Ejemplo2_FusionListas/obj/Debug/net10.0/Ejemplo2_FusionListas.genruntimeconfig.cache
+/home/marcus/Documentos/GitHub/EDA/EjerciciosGuia1/Ejercicio2/Ejemplo2_FusionListas/obj/Debug/net10.0/ref/Ejemplo2_FusionListas.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xmtiaNSpegA=",
+  "success": true,
+  "projectFilePath": "/home/marcus/Documentos/GitHub/EDA/EjerciciosGuia1/Ejercicio2/Ejemplo2_FusionListas/Ejemplo2_FusionListas.csproj",
+  "expectedPackageFiles": [
+    "/home/marcus/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.8/microsoft.aspnetcore.app.ref.10.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
